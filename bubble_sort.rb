@@ -1,5 +1,4 @@
 def bubble_sort(arr)
-  i = 0
   loop do
     sorted = true
     for i in 0..(arr.size - 2)
